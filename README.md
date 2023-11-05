@@ -184,15 +184,8 @@ Subject: 11/4(土) ツーリングのお誘い<br><br>
 田伏さん（ハーレー）<br>
 　など<br><br><br>
  
+<a href="20231104_020.png" data-lightbox="abc"><img src="20231104_020.pngG" alt="サンプル画像" width="300" /></a>
 
-Kanji Kita／北 貫二<br>
-本田技研工業（株）<br>
-四輪事業本部　四輪開発センター<br>
-パワーユニット開発統括部　パワーユニット開発二部<br>
-駆動モジュール開発課<br>
-HONDA Motor Co.,Ltd.<br>
-PU2 DMD<br>
-4630 Shimotakanezawa,Haga-gun,Tochigi,321-3393 Japan<br><br>
 
 
 <br><br><br><br><br><br><br><br>
