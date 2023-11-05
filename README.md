@@ -134,7 +134,7 @@ width:970px;
 <p align="left"> <img src="QR_banya.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 	
 
-<p align="right"><marquee direction="left" scrollamount="10" width="30%">(^_^)/~Torokoid_Mibu</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="10" width="30%">(^_^)/~Satoshi_Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2023年11月4日、湯西川〜南会津番屋ツーリング !!!</marquee></span></h1>
