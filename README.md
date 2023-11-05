@@ -184,7 +184,7 @@ Subject: 11/4(土) ツーリングのお誘い<br><br>
 田伏さん（ハーレー）<br>
 　など<br><br><br>
  
-<a href="20231104_020.png" data-lightbox="abc"><img src="20231104_020.png" alt="サンプル画像" width="300" /></a>
+<a href="20231104_020.png" data-lightbox="abc"><img src="20231104_020.png" alt="サンプル画像" width="400" /></a>
 
 
 
