@@ -164,7 +164,18 @@ width:970px;
 <a href="20231104_019.JPG" data-lightbox="abc"><img src="20231104_019.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
 
- 
+<p><span class="snow">以下動画</span></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGt55eW3LI4?si=hCHVimTcvxKLc67U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/esSWOceRTwY?si=Nw2I0wtjGgtwsVrX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s9crTuWLi2U?si=fdpeFgp4fFvO9oXG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1RiK38HgM0I?si=bNX05JA3puhZP4O6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vCATlDhJ_rQ?si=jqOX5iE1abDXjoub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pM2o8AjaUlk?si=pduodF8BPpzSWlC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4fl9DbwKFo?si=653xlpczpBp2lgYu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKpMxAnZI_E?si=ZLri9Zn3gBCns0UK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhJVLRaVwBw?si=w_AVyms3V34NqarK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br><br>
 <a href="20231104_020.png" data-lightbox="abc"><img src="20231104_020.png" alt="サンプル画像" width="900" /></a>
 
 
