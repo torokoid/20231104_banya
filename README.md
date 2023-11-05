@@ -1,4 +1,4 @@
-# 202311104_-
+# 202311104_banya
 
 <html>
 <head>
@@ -71,7 +71,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(20231008_001.png) center/cover no-repeat; /*fixedをトル！*/
+  background:url(20231104_017.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 	
@@ -162,7 +162,7 @@ width:970px;
 <a href="20231104_018.JPG" data-lightbox="abc"><img src="20231104_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231104_019.JPG" data-lightbox="abc"><img src="20231104_019.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
-<a href="https://www.eizo.co.jp/solutions/solution/creative/mocha/" target="_blank"><p>mocha氏HPリンク</p></a>
+
 
 <br><br><br><br><br><br><br><br>
 
