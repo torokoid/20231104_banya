@@ -131,7 +131,7 @@ width:970px;
 -->
 <!--QRコードの挿入例-->
 
-<p align="left"> <img src="QR_mocha.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_banya.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 	
 
 <p align="right"><marquee direction="left" scrollamount="10" width="30%">(^_^)/~Torokoid_Mibu</marquee></p>
@@ -142,17 +142,25 @@ width:970px;
 
 <!--ここから下が、本体部分-->
 	
-<a href="20231008_001.png" data-lightbox="abc"><img src="20231008_001.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_002.png" data-lightbox="abc"><img src="20231008_002.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_003.png" data-lightbox="abc"><img src="20231008_003.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_004.png" data-lightbox="abc"><img src="20231008_004.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_005.png" data-lightbox="abc"><img src="20231008_005.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_006.png" data-lightbox="abc"><img src="20231008_006.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_007.png" data-lightbox="abc"><img src="20231008_007.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_008.png" data-lightbox="abc"><img src="20231008_008.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_009.png" data-lightbox="abc"><img src="20231008_009.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_010.png" data-lightbox="abc"><img src="20231008_010.png" alt="サンプル画像" width="900" /></a>
-<a href="20231008_011.png" data-lightbox="abc"><img src="20231008_011.png" alt="サンプル画像" width="900" /></a>
+<a href="20231104_001.JPG" data-lightbox="abc"><img src="20231104_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_002.JPG" data-lightbox="abc"><img src="20231104_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_003.JPG" data-lightbox="abc"><img src="20231104_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_004.JPG" data-lightbox="abc"><img src="20231104_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_005.JPG" data-lightbox="abc"><img src="20231104_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_006.JPG" data-lightbox="abc"><img src="20231104_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_007.JPG" data-lightbox="abc"><img src="20231104_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_008.JPG" data-lightbox="abc"><img src="20231104_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_009.JPG" data-lightbox="abc"><img src="20231104_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_010.JPG" data-lightbox="abc"><img src="20231104_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_011.JPG" data-lightbox="abc"><img src="20231104_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_012.JPG" data-lightbox="abc"><img src="20231104_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_013.JPG" data-lightbox="abc"><img src="20231104_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_014.JPG" data-lightbox="abc"><img src="20231104_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_015.JPG" data-lightbox="abc"><img src="20231104_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_016.JPG" data-lightbox="abc"><img src="20231104_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_017.JPG" data-lightbox="abc"><img src="20231104_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_018.JPG" data-lightbox="abc"><img src="20231104_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231104_019.JPG" data-lightbox="abc"><img src="20231104_019.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
 <a href="https://www.eizo.co.jp/solutions/solution/creative/mocha/" target="_blank"><p>mocha氏HPリンク</p></a>
 
