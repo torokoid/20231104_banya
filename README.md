@@ -1,4 +1,4 @@
-# 202311104_banya
+# 20231104_banya
 
 <html>
 <head>
@@ -164,7 +164,7 @@ width:970px;
 <a href="20231104_019.JPG" data-lightbox="abc"><img src="20231104_019.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
 
-<p><span class="snow">以下動画</span></p>
+<p><span class="snow">以下動画、全て限定公開 ⇒ アドレスを知らなければ見えません = このリンクからしか飛べません。</span></p>
 <iframe width="280" height="160" src="https://www.youtube.com/embed/xGt55eW3LI4?si=hCHVimTcvxKLc67U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="280" height="160" src="https://www.youtube.com/embed/esSWOceRTwY?si=Nw2I0wtjGgtwsVrX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="280" height="160" src="https://www.youtube.com/embed/s9crTuWLi2U?si=fdpeFgp4fFvO9oXG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
