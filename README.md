@@ -187,7 +187,7 @@ width:970px;
 </h6>
 <!-- フッタ -->
 <footer>
-	<span class="white"> 2023/10/08 T.Mibu</span>
+	<span class="white"> 2023/11/04 Satoshi.Hada</span>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
