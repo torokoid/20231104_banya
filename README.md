@@ -143,9 +143,9 @@ width:970px;
 <!--ここから下が、本体部分-->
 <p><span class="snow">湯西川道の駅で休憩</span></p>
 <a href="20231104_001.JPG" data-lightbox="abc"><img src="20231104_001.JPG" alt="サンプル画像" width="900" /></a>
-<p><span class="snow">これ以降は南会津番屋</span></p>
 <a href="20231104_021.jpg" data-lightbox="abc"><img src="20231104_021.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20231104_022.jpg" data-lightbox="abc"><img src="20231104_022.jpg" alt="サンプル画像" width="900" /></a>
+<p><span class="snow">これ以降は南会津番屋</span></p>
 <a href="20231104_023.jpg" data-lightbox="abc"><img src="20231104_023.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20231104_024.jpg" data-lightbox="abc"><img src="20231104_024.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20231104_025.jpg" data-lightbox="abc"><img src="20231104_025.jpg" alt="サンプル画像" width="900" /></a>
